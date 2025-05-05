@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 523420F92DC62324007ECA55 /* Build configuration list for PBXProject "InfiniteScrollDemo" */;
+			buildConfigurationList = 523420F92DC62324007ECA55 /* Build configuration list for PBXProject "InfiniteScrollDemo-Combine" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		523420F92DC62324007ECA55 /* Build configuration list for PBXProject "InfiniteScrollDemo" */ = {
+		523420F92DC62324007ECA55 /* Build configuration list for PBXProject "InfiniteScrollDemo-Combine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				523421072DC62326007ECA55 /* Debug */,
